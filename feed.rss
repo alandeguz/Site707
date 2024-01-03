@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+	<channel>
+		<title>sqrt(2)/2</title>
+		<description>The only website on the Internet dedicated to sqrt(2)/2</description>
+		<link>https://0.707106781.com</link>
+		<language>en</language>
+		<lastBuildDate>Sun, 31 Dec 2023 17:21:48 -0600</lastBuildDate>
+		<pubDate>Sun, 31 Dec 2023 17:21:48 -0600</pubDate>
+		<ttl>250</ttl>
+		<atom:link href="https://0.707106781.com/feed.rss" rel="self" type="application/rss+xml">
+	</channel>
+</rss>
