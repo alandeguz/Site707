@@ -84,6 +84,7 @@ div#bgdiv {
     color: #ccffcc;
     z-index: -1;
     overflow-y: scroll;
+    user-select: none;
 }
 
 .wrapper {
